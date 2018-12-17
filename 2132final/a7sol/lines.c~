@@ -1,0 +1,36 @@
+
+#include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
+
+#include "lines.h"
+#include "match.h"
+
+/*Maximum length of a line*/
+#define LINE_SIZE 80
+
+int read_line(char line[],int len);
+
+struct line* insert(struct line* text, char* line,int field);
+
+/*Read the lines of input and insert distinct lines into a linked list
+ *Parameters: text: head of the list storing the distinct lines of text
+ *           field: the number of fields to be skipped when comparing two lines
+ *Return value: the head of the linked list created
+ */
+
+struct line* read_lines(struct line* text, int field){
+  char line[LINE_SIZE];//string storing a line of text
+  int line_len;//number of characters read in one line
+
+  while((line_len=read_line(line,LINE_SIZE))>0)
+    text=insert(text,line,field);
+
+  if(line_len == -1){
+    printf("unable to handle lines longer than 80 characters.\n");
+    delete_list(text);
+    exit(EXIT_FAILURE);
+  }
+
+  return text;
+}
