@@ -1,0 +1,11 @@
+i)This sepcial character is Control-C (often denoted  ^C)
+ii)Each 6 corresponds to user's, group's and other's file
+permission of this folder.6 converts to binary is 110,
+110 means this file can read, write and cannot execute.
+Neither the user,the group and others can execute the file.
+So this means whenever one type cd csci2132,the system
+denied people from entering it.Suppose we only want the
+user to execute the file we can change 110 to 111,
+which means the user can now perform the cd csci2132
+successfully.
+Ex command: $chmod 766 csci2132.
