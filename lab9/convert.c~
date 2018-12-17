@@ -1,0 +1,28 @@
+#include<stdio.h>
+#include<ctype.h>
+
+int main(int argc,char *argv[]){
+  FILE *fp;
+  if(argc!=2){
+    fprintf(stderr,"cusage:cntchar file.\n");
+    return 1;
+  }
+  if((fp=fopen(argv[1],"r"))==NULL){
+    fprintf(stderr,"Can't open %s\n",argv[1]);
+    return 1;
+  }
+  char a;
+  while(getc(fp)!=EOF){
+    a=getc(fp);
+    if(a>='a'&&a<='z')
+      a=toupper(a);
+    else if(a==' '||a=='\n');
+    printf("%c ",a);
+  }
+  fclose(fp);
+  return 0;
+
+
+
+
+}

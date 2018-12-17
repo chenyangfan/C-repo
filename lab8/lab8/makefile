@@ -1,0 +1,18 @@
+FLAGS=-O3 -std=c99
+
+all: decimal2binary hello
+
+decimal2binary: decimal2binary.o stack.o
+	gcc $(FLAGS) -o decimal2binary decimal2binary.o stack.o
+
+decimal2binary.o: decimal2binary.c stack.h bit.h
+	gcc $(FLAGS) -c decimal2binary.c
+
+stack.o: stack.c stack.h bit.h
+	gcc $(FLAGS) -c stack.c
+
+hello: hello.c
+	gcc $(FLAGS) -o hello hello.c
+
+clean: 
+	rm decimal2binary decimal2binary.o stack.o hello

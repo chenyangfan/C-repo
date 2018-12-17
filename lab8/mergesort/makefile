@@ -1,0 +1,13 @@
+all: main
+
+main: main.o mergesort.o
+	gcc -g -std=c99 -o main main.o mergesort.o
+
+main.o: main.c mergesort.h
+	gcc -std=c99 -c main.c
+
+mergesort.o: mergesort.c mergesort.h
+	gcc -std=c99 -c mergesort.c
+
+clean:
+	rm main main.o mergesort.o
