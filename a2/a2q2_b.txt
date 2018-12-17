@@ -1,0 +1,16 @@
+Script started on Wed 31 Jan 2018 12:17:53 PM AST
+[?1034hyangfan@bluenose:~/csci2132/a2$ exit[Kexitgrep '^[unxUNIX]*i[iuxUNIX]*n[^inxUNIX]*u[^inuUNIIX]*x[^iuxnUNIX]*$' /usr/share/dict/linux.words[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C^unxUNIX]*i[iuxUNIX]*n[^inxUNIX]*u[^inuUN[1@I[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C^iuxUNIX]*n[^inxUNIX]*u[^inuU[1@N[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+Cristineaux
+fricandeaux
+influx
+influxable
+influxes
+interflux
+Kristinaux
+rinceaux
+saindoux
+yangfan@bluenose:~/csci2132/a2$ exit
+exit
+
+Script done on Wed 31 Jan 2018 12:18:26 PM AST

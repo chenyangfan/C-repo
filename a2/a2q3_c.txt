@@ -1,0 +1,7 @@
+Script started on Tue 30 Jan 2018 08:01:11 PM AST
+[?1034hyangfan@bluenose:~/csci2132/a2$ sr[Kort -k 4,4n /users/faculty/prof2132/public [K/auth ors.txt [K | tail -1 | cut -d " " -f 1,2 | cat
+Alex Hopes
+yangfan@bluenose:~/csci2132/a2$ exit
+exit
+
+Script done on Tue 30 Jan 2018 08:01:54 PM AST

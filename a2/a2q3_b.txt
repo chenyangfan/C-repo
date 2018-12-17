@@ -1,0 +1,25 @@
+Script started on Tue 30 Jan 2018 07:57:25 PM AST
+[?1034hyangfan@bluenose:~/csci2132/a2$ sort -r -k 3 -n /usr[Kers/faculty/prof2132/public/a uthors.txt  | cat
+Matthew Joseph 10 800000
+Gram Swan 8 150000
+Alex Hopes 7 2000000
+Hannah Chris 6 8000
+Luca King 5 90000
+Jonas Leon 5 80000
+Michael Scott 4 60000
+Steve Border 3 6000
+Marie Andrew 3 9000
+Tim Andrew 2 7000
+Mike Millon 2 50000
+Jacks William 2 10000
+Leon Kings 1 2500
+James Anderson 1 3000
+Jacob Ethan 1 2500
+Emily Daniel 1 5000
+Asheley Felix 1 5000
+Allen Border 1 2000
+Adam Bata 1 4000
+yangfan@bluenose:~/csci2132/a2$ exit
+exit
+
+Script done on Tue 30 Jan 2018 07:58:07 PM AST

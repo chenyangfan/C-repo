@@ -1,0 +1,25 @@
+Script started on Mon 29 Jan 2018 07:47:22 PM AST
+[?1034hyangfan@bluenose:~/csci2132/a1$ exit[Ksort -k --[K[K2 -k 1 /usr/[K[Kers/faculty/prof2132/public/au thors.txt | sort[K[K[K[Kcat
+James Anderson 1 3000
+Tim Andrew 2 7000
+Marie Andrew 3 9000
+Adam Bata 1 4000
+Allen Border 1 2000
+Steve Border 3 6000
+Hannah Chris 6 8000
+Emily Daniel 1 5000
+Jacob Ethan 1 2500
+Asheley Felix 1 5000
+Alex Hopes 7 2000000
+Matthew Joseph 10 800000
+Luca King 5 90000
+Leon Kings 1 2500
+Jonas Leon 5 80000
+Mike Millon 2 50000
+Michael Scott 4 60000
+Gram Swan 8 150000
+Jacks William 2 10000
+yangfan@bluenose:~/csci2132/a1$ ei[Kxit
+exit
+
+Script done on Mon 29 Jan 2018 07:48:33 PM AST

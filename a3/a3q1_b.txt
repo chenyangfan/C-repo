@@ -1,0 +1,4 @@
+first ,we can use ^z to suspend a foreground process
+then we can use the bg command to resume it in the 
+background(to do so, we must need the suspended process's
+jobID) the format to do so is bg %jobID

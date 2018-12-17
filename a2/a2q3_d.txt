@@ -1,0 +1,7 @@
+Script started on Mon 29 Jan 2018 08:59:50 PM AST
+[?1034hyangfan@bluenose:~/csci2132/a2$ cut -d " " -f 3 [K /users/facu;t[K[Klty/prof2132/public/a uthors.txt | sort -n | uniq | wc -l
+9
+yangfan@bluenose:~/csci2132/a2$ exit
+exit
+
+Script done on Mon 29 Jan 2018 09:01:08 PM AST

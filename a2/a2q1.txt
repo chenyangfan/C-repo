@@ -1,0 +1,9 @@
+i)soft links is a file that has absolute or relative
+pathname of another file as its data part.
+
+ii)to check the hard link count of a given file, use the
+ls -l command. After you run the command , you will see
+a detailed description of the file, the number of hard
+links is displayed between file permisson columns and 
+file owners which is the second column from left to
+right.

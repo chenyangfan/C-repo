@@ -1,0 +1,5 @@
+(i)the string 2ndday is not a legal identifier.
+Because an identifier must begin with a letter
+or underscore.
+(ii)printf("All that is gold does not glitter,\n
+	   Not all those who wander are lost.\n");"

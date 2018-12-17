@@ -1,0 +1,7 @@
+Script started on Tue 30 Jan 2018 07:52:40 PM AST
+[?1034hyangfan@bluenose:~/csci2132/a2$ grep '^can..[ac]$' [K /usr/share/dict/linux.words.[K |  wc -l
+10
+yangfan@bluenose:~/csci2132/a2$ exit
+exit
+
+Script done on Tue 30 Jan 2018 07:53:20 PM AST
