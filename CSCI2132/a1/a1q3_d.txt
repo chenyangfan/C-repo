@@ -1,0 +1,7 @@
+Script started on Mon 22 Jan 2018 05:50:52 PM AST
+[?1034hyangfan@bluenose:~/csci2132/a1$ ls /[K[K[K[Kls/[K /urs[K[Ksr/bin/[a-z[K[K[K!a=[K-zA-z]*
+/usr/bin/[  /usr/bin/411toppm
+yangfan@bluenose:~/csci2132/a1$ exit
+exit
+
+Script done on Mon 22 Jan 2018 05:52:01 PM AST

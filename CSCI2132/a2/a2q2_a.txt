@@ -1,0 +1,11 @@
+Script started on Mon 29 Jan 2018 08:08:49 PM AST
+[?1034hyangfan@bluenose:~/csci2132/a2$ grep '^[[Kun [K.*ix$' /usr/share/dict/linux.words.[K
+unfix
+uniprocessorunix
+unix
+unmix
+unprolix
+yangfan@bluenose:~/csci2132/a2$ ls[K[Kexit
+exit
+
+Script done on Mon 29 Jan 2018 08:10:42 PM AST

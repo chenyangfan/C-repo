@@ -1,7 +1,0 @@
-Script started on Tue 13 Feb 2018 04:26:22 PM AST
-[?1034hyangfan@bluenose:~/csci2132/a3$ echo the current time is `date`
-the current time is Tue Feb 13 16:26:55 AST 2018
-yangfan@bluenose:~/csci2132/a3$ exit
-exit
-
-Script done on Tue 13 Feb 2018 04:27:03 PM AST

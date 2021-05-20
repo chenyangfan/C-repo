@@ -1,7 +1,0 @@
-Script started on Mon 22 Jan 2018 05:48:44 PM AST
-[?1034hyangfan@bluenose:~/csci2132/a1$ ls /usr/bin/a?????
-/usr/bin/alpine  /usr/bin/aspell  /usr/bin/aulast  /usr/bin/auvirt
-yangfan@bluenose:~/csci2132/a1$ exit
-exit
-
-Script done on Mon 22 Jan 2018 05:49:19 PM AST

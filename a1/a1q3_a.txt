@@ -1,9 +1,0 @@
-Script started on Mon 22 Jan 2018 05:54:12 PM AST
-[?1034hyangfan@bluenose:~/csci2132/a1$ ls /us[Ksr/bin/*.sh
-/usr/bin/fcsmotd.sh  /usr/bin/lesspipe.sh	   /usr/bin/unix-lpr.sh
-/usr/bin/gettext.sh  /usr/bin/lprsetup.sh	   /usr/bin/url_handler.sh
-/usr/bin/gvmap.sh    /usr/bin/setup-nsssysinit.sh
-yangfan@bluenose:~/csci2132/a1$ exit
-exit
-
-Script done on Mon 22 Jan 2018 05:54:39 PM AST
